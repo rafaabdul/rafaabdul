@@ -56,7 +56,7 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
   </a>
 
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" alt="Power BI" height="40" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40" width="80"/><span style="color:white; margin-left:-30px">PowerBI</span>
   </a>
 </div>
 <br>
