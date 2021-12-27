@@ -24,7 +24,7 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/36/1/c-sharp-c-logo-png_seeklogo-363285.png" alt="C#" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40"/>
   </a>
 
   <a href="https://www.cplusplus.com/" target="_blank">
