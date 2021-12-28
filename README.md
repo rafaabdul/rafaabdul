@@ -32,7 +32,7 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
   </a>
 
   <a href="https://www.sql.org/" target="_blank">
-    <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>
   </a>
 
   <a href="https://www.oracle.com/plm/" target="_blank">
