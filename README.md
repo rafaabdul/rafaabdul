@@ -93,8 +93,9 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
       <p align="center">
               <a href="https://github.com/rafaabdul">
-                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaabdul&theme=radical&border=7F3FBF&background=0D1117" alt="rafaabdul's GitHub streak"/>
+                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaabdul&include_all_commits=true&theme=radical&border=7F3FBF&background=0D1117" alt="rafaabdul's GitHub streak"/>
               </a>
+              <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaabdul&theme=microsoft-dark&hide_total_contributions=true" alt="GitHub Streak" /></a>
       </p>
            <p align="center"> 
                    <a href="https://github.com/rafaabdul">
