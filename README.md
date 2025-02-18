@@ -93,18 +93,17 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
       <p align="center">
               <a href="https://github.com/rafaabdul">
-                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaabdul&include_all_commits=true&theme=radical&border=7F3FBF&background=0D1117" alt="rafaabdul's GitHub streak"/>
+                      <img src="https://streak-stats.demolab.com?user=rafaabdul&include_all_commits=true&theme=radical&border=7F3FBF&background=0D1117" alt="rafaabdul's GitHub streak"/>
               </a>
-              <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rafaabdul&theme=microsoft-dark&hide_total_contributions=true" alt="GitHub Streak" /></a>
       </p>
            <p align="center"> 
                    <a href="https://github.com/rafaabdul">
-                           <img alt="rafaabdul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaabdul&show_icons=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+                           <img alt="rafaabdul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaabdul&show_icons=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
                    </a><br>
            </p>
            <p align="center">
                    <a href="https://github.com/rafaabdul">
-           <img alt="rafaabdul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaabdul&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+           <img alt="rafaabdul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaabdul&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
    </a><br/>
            </p>
    </table>
