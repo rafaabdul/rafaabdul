@@ -98,12 +98,12 @@ C#, C++, SQL | Oracle PLM, Siemens Teamcenter, Enovia | Tableau, Jira, Power BI
       </p>
            <p align="center"> 
                    <a href="https://github.com/rafaabdul">
-                           <img alt="Al Shuvo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaabdul&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+                           <img alt="rafaabdul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rafaabdul&show_icons=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
                    </a><br>
            </p>
            <p align="center">
                    <a href="https://github.com/rafaabdul">
-           <img alt="Al Shuvo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaabdul&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+           <img alt="rafaabdul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaabdul&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
    </a><br/>
            </p>
    </table>
